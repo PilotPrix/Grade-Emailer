@@ -1,0 +1,12 @@
+Alias: Mr. Snniatenchuk
+Email: sean@highlandereng.ca
+Password: vapnemzwqwdfaxzb
+
+Email subject: Your mid-term mark
+Email body (placeholders: $STUDENT, $MARK):
+Hi $STUDENT!
+
+Your mid-term mark for English is $MARK.
+
+Have a nice day!
+Mr. Sniatenchuk
